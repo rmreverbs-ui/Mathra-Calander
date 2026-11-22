@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Mathra" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/mathra_bg_black</item>
+        <item name="android:windowBackground">@color/mathra_bg_black</item>
+    </style>
+</resources>

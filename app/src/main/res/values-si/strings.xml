@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">මාත්‍ර ඔරලෝසුව සහ දින දර්ශනය</string>
+    <string name="tagline">කාලය සැමවිටම ඔබ සමඟ…</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">මුල් පිටුව</string>
+    <string name="nav_calendar">දින දර්ශනය</string>
+    <string name="nav_clock">ඔරලෝසුව</string>
+    <string name="nav_reminders">මතක් කිරීම්</string>
+    <string name="nav_settings">සැකසුම්</string>
+
+    <!-- Dashboard -->
+    <string name="greeting_morning">සුභ උදෑසනක්!</string>
+    <string name="greeting_afternoon">සුභ දහවලක්!</string>
+    <string name="greeting_evening">සුභ සැන්දෑවක්!</string>
+    <string name="greeting_night">සුභ රාත්‍රියක්!</string>
+    <string name="upcoming_holidays">ඉදිරි නිවාඩු දින</string>
+    <string name="todays_reminders">අද දින මතක් කිරීම්</string>
+    <string name="next_alarm">ඊළඟ එලාමය</string>
+    <string name="card_clock">ඔරලෝසුව</string>
+    <string name="card_calendar">දින දර්ශනය</string>
+    <string name="card_alarm">එලාමය</string>
+    <string name="card_stopwatch">තත්පර ඔරලෝසුව</string>
+    <string name="card_timer">කාල ගණකය</string>
+    <string name="card_reminders">මතක් කිරීම්</string>
+    <string name="card_holidays">නිවාඩු දින</string>
+    <string name="card_festivals">උත්සව</string>
+    <string name="card_settings">සැකසුම්</string>
+    <string name="card_about">අප ගැන</string>
+
+    <!-- Clock -->
+    <string name="clock_digital">ඩිජිටල්</string>
+    <string name="clock_analog">ඇනලොග්</string>
+    <string name="clock_24h">පැය 24 ආකෘතිය</string>
+
+    <!-- Calendar -->
+    <string name="calendar_today">අද</string>
+    <string name="calendar_public_holiday">රජයේ නිවාඩුව</string>
+    <string name="calendar_poya_day">පෝය දිනය</string>
+    <string name="calendar_personal_event">පුද්ගලික සිදුවීම</string>
+
+    <!-- Alarm -->
+    <string name="alarm_add">එලාමයක් එක් කරන්න</string>
+    <string name="alarm_label">නම</string>
+    <string name="alarm_repeat">නැවත කිරීම</string>
+    <string name="alarm_none_set">තවම එලාම සකසා නැත. එක් කිරීමට + ඔබන්න.</string>
+
+    <!-- Stopwatch / Timer -->
+    <string name="stopwatch_start">අරඹන්න</string>
+    <string name="stopwatch_pause">විරාමය</string>
+    <string name="stopwatch_reset">යළි සකසන්න</string>
+    <string name="stopwatch_lap">වටය</string>
+    <string name="timer_start">අරඹන්න</string>
+    <string name="timer_pause">විරාමය</string>
+    <string name="timer_reset">යළි සකසන්න</string>
+
+    <!-- Reminders -->
+    <string name="reminder_add">මතක් කිරීමක් එක් කරන්න</string>
+    <string name="reminder_title_hint">මතක් කිරීමේ මාතෘකාව</string>
+    <string name="reminder_none">තවම මතක් කිරීම් නැත.</string>
+
+    <!-- Settings -->
+    <string name="settings_language">භාෂාව</string>
+    <string name="settings_time_format">වේලා ආකෘතිය</string>
+    <string name="settings_theme">තේමාව</string>
+    <string name="settings_notifications">දැනුම්දීම්</string>
+    <string name="settings_about">අප ගැන</string>
+    <string name="settings_dark_mode">අඳුරු ප්‍රකාරය</string>
+
+    <!-- About -->
+    <string name="about_developer">සංවර්ධකයා: මාත්‍ර</string>
+    <string name="about_version">වාර්තාව 1.0.0</string>
+    <string name="about_copyright">© මාත්‍ර ඔරලෝසුව සහ දින දර්ශනය. සියලු හිමිකම් ඇවිරිණි.</string>
+
+    <!-- Holidays -->
+    <string name="holiday_duruthu_poya">දුරුතු පුර පසළොස්වක පෝය</string>
+    <string name="holiday_thai_pongal">තෛපොංගල් දිනය</string>
+    <string name="holiday_navam_poya">නවම් පුර පසළොස්වක පෝය</string>
+    <string name="holiday_independence_day">නිදහස් දිනය</string>
+    <string name="holiday_maha_sivarathri">මහා ශිවරාත්‍රි දිනය</string>
+    <string name="holiday_medin_poya">මැදින් පුර පසළොස්වක පෝය</string>
+    <string name="holiday_sinhala_tamil_new_year">සිංහල සහ දෙමළ අලුත් අවුරුද්ද</string>
+    <string name="holiday_vesak_poya">වෙසක් පුර පසළොස්වක පෝය</string>
+    <string name="holiday_may_day">ලෝක කම්කරු දිනය</string>
+    <string name="holiday_day_after_vesak">වෙසක් පසු දිනය</string>
+    <string name="holiday_id_ul_alha">හජ් (ඊද් උල් අල්හා) උත්සව දිනය</string>
+    <string name="holiday_adhi_poson_poya">අධි පොසොන් පුර පසළොස්වක පෝය</string>
+    <string name="holiday_poson_poya">පොසොන් පුර පසළොස්වක පෝය</string>
+    <string name="holiday_esala_poya">ඇසළ පුර පසළොස්වක පෝය</string>
+    <string name="holiday_milad_un_nabi">මීලාද් උන් නබී දිනය</string>
+    <string name="holiday_nikini_poya">නිකිණි පුර පසළොස්වක පෝය</string>
+    <string name="holiday_binara_poya">බිනර පුර පසළොස්වක පෝය</string>
+    <string name="holiday_vap_poya">වප් පුර පසළොස්වක පෝය</string>
+    <string name="holiday_deepavali">දීපාවලී උත්සව දිනය</string>
+    <string name="holiday_il_poya">ඉල් පුර පසළොස්වක පෝය</string>
+    <string name="holiday_unduvap_poya">උඳුවප් පුර පසළොස්වක පෝය</string>
+    <string name="holiday_christmas">නත්තල් දිනය</string>
+    <string name="holiday_new_year_day">අලුත් අවුරුද්ද</string>
+
+    <!-- Added: reminders, themes, permissions -->
+    <string name="reminder_note_hint">සටහන (විකල්ප)</string>
+    <string name="reminder_repeat">නැවත නැවත</string>
+    <string name="reminder_due">ඔබේ සිහිකැඳවීමේ වේලාව පැමිණ ඇත</string>
+    <string name="reminder_past_error">කරුණාකර අනාගත දිනයක් සහ වේලාවක් තෝරන්න.</string>
+    <string name="repeat_none">එක් වරක්</string>
+    <string name="repeat_daily">දිනපතා</string>
+    <string name="repeat_birthday">උපන්දිනය (වසරකට වරක්)</string>
+    <string name="repeat_anniversary">සංවත්සරය (වසරකට වරක්)</string>
+    <string name="action_save">සුරකින්න</string>
+    <string name="action_cancel">අවලංගු කරන්න</string>
+    <string name="action_ok">හරි</string>
+    <string name="settings_appearance">පෙනුම</string>
+    <string name="mode_system">පද්ධතිය</string>
+    <string name="mode_dark">අඳුරු</string>
+    <string name="mode_light">ආලෝක</string>
+    <string name="settings_theme_gallery">තේමා ගැලරිය</string>
+    <string name="settings_vibration">කම්පනය</string>
+    <string name="settings_animations">සජීවීකරණ</string>
+    <string name="settings_exact_alarm">නිවැරදි වේලාවට එලාම් සඳහා අවසර</string>
+    <string name="settings_exact_alarm_desc">එලාම් සහ සිහිකැඳවීම් නියම විනාඩියටම නාද වීමට Android මෙම අවසරය අවශ්‍ය කරයි.</string>
+    <string name="settings_exact_alarm_button">සැකසුම් විවෘත කරන්න</string>
+
+    <string name="holiday_id_ul_fitr">ඊද්-උල්-ෆිතර් (රමසාන් උත්සව දිනය)</string>
+    <string name="holiday_bak_poya">බක් පුර පසළොස්වක පොහොය දිනය</string>
+    <string name="holiday_good_friday">ශුභ සිකුරාදා</string>
+    <string name="holiday_day_before_new_year">සිංහල හා දෙමළ අලුත් අවුරුද්දට පෙර දිනය</string>
+
+    <string name="holidays_title">ශ්‍රී ලංකාව %1$d — නිවාඩු සහ පොහොය දින</string>
+    <string name="holidays_source_2026">මූලාශ්‍රය: ශ්‍රී ලංකා රජයේ ගැසට් අංක 2438/22</string>
+    <string name="holidays_not_gazetted_title">නිවාඩු දින තවම ගැසට් වී නැත</string>
+    <string name="holidays_not_gazetted_body">රජය විසින් ඒ ඒ වසරේ රාජ්‍ය හා බැංකු නිවාඩු ගැසට් පත්‍රය පළ කරන්නේ පෙර වසරේ අග භාගයේදීය. %1$d ගැසට් වන තුරු, අනුමාන කරනවා වෙනුවට මෙහි දින කිසිවක් පෙන්වන්නේ නැත (පොහොය දින සහ මුස්ලිම්/හින්දු උත්සව චන්ද්‍ර දින දර්ශනය අනුව වෙනස් වේ). ගැසට් පත්‍රය පළ වූ පසු යාවත්කාලීනයක් මගින් එය එක් කෙරේ.</string>
+    <string name="holidays_source_2027">මූලාශ්‍රය: ශ්‍රී ලංකා රජයේ ගැසට් අංක 2493/05</string>
+    <string name="days_today">අද!</string>
+    <string name="days_in">තව දින %1$d කින්</string>
+    <string name="days_ago">දින %1$d කට පෙර</string>
+</resources>

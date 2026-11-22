@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Mathra Clock and Calendar</string>
+    <string name="tagline">Time Always With You…</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_clock">Clock</string>
+    <string name="nav_reminders">Reminders</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="greeting_morning">Good Morning!</string>
+    <string name="greeting_afternoon">Good Afternoon!</string>
+    <string name="greeting_evening">Good Evening!</string>
+    <string name="greeting_night">Good Night!</string>
+    <string name="upcoming_holidays">Upcoming Holidays</string>
+    <string name="todays_reminders">Today\'s Reminders</string>
+    <string name="next_alarm">Next Alarm</string>
+    <string name="card_clock">Clock</string>
+    <string name="card_calendar">Calendar</string>
+    <string name="card_alarm">Alarm</string>
+    <string name="card_stopwatch">Stopwatch</string>
+    <string name="card_timer">Timer</string>
+    <string name="card_reminders">Reminders</string>
+    <string name="card_holidays">Holidays</string>
+    <string name="card_festivals">Festivals</string>
+    <string name="card_settings">Settings</string>
+    <string name="card_about">About</string>
+
+    <!-- Clock -->
+    <string name="clock_digital">Digital</string>
+    <string name="clock_analog">Analog</string>
+    <string name="clock_24h">24-Hour Format</string>
+
+    <!-- Calendar -->
+    <string name="calendar_today">Today</string>
+    <string name="calendar_public_holiday">Public Holiday</string>
+    <string name="calendar_poya_day">Poya Day</string>
+    <string name="calendar_personal_event">Personal Event</string>
+
+    <!-- Alarm -->
+    <string name="alarm_add">Add Alarm</string>
+    <string name="alarm_label">Label</string>
+    <string name="alarm_repeat">Repeat</string>
+    <string name="alarm_none_set">No alarms set yet. Tap + to add one.</string>
+
+    <!-- Stopwatch / Timer -->
+    <string name="stopwatch_start">Start</string>
+    <string name="stopwatch_pause">Pause</string>
+    <string name="stopwatch_reset">Reset</string>
+    <string name="stopwatch_lap">Lap</string>
+    <string name="timer_start">Start</string>
+    <string name="timer_pause">Pause</string>
+    <string name="timer_reset">Reset</string>
+
+    <!-- Reminders -->
+    <string name="reminder_add">Add Reminder</string>
+    <string name="reminder_title_hint">Reminder title</string>
+    <string name="reminder_none">No reminders yet.</string>
+
+    <!-- Settings -->
+    <string name="settings_language">Language</string>
+    <string name="settings_time_format">Time Format</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_about">About</string>
+    <string name="settings_dark_mode">Dark Mode</string>
+
+    <!-- About -->
+    <string name="about_developer">Developer / Creator: Mathra</string>
+    <string name="about_version">Version 1.0.0</string>
+    <string name="about_copyright">© Mathra Clock and Calendar. All Rights Reserved.</string>
+
+    <!-- Holidays (shared names, kept in English + Sinhala variant file) -->
+    <string name="holiday_duruthu_poya">Duruthu Full Moon Poya Day</string>
+    <string name="holiday_thai_pongal">Tamil Thai Pongal Day</string>
+    <string name="holiday_navam_poya">Navam Full Moon Poya Day</string>
+    <string name="holiday_independence_day">Independence Day</string>
+    <string name="holiday_maha_sivarathri">Maha Sivarathri Day</string>
+    <string name="holiday_medin_poya">Medin Full Moon Poya Day</string>
+    <string name="holiday_sinhala_tamil_new_year">Sinhala &amp; Tamil New Year Day</string>
+    <string name="holiday_vesak_poya">Vesak Full Moon Poya Day</string>
+    <string name="holiday_may_day">May Day (International Workers\' Day)</string>
+    <string name="holiday_day_after_vesak">Day Following Vesak Full Moon Poya Day</string>
+    <string name="holiday_id_ul_alha">Id-Ul-Alha (Hadji Festival Day)</string>
+    <string name="holiday_adhi_poson_poya">Adhi Poson Full Moon Poya Day</string>
+    <string name="holiday_poson_poya">Poson Full Moon Poya Day</string>
+    <string name="holiday_esala_poya">Esala Full Moon Poya Day</string>
+    <string name="holiday_milad_un_nabi">Milad-Un-Nabi (Holy Prophet\'s Birthday)</string>
+    <string name="holiday_nikini_poya">Nikini Full Moon Poya Day</string>
+    <string name="holiday_binara_poya">Binara Full Moon Poya Day</string>
+    <string name="holiday_vap_poya">Vap Full Moon Poya Day</string>
+    <string name="holiday_deepavali">Deepavali Festival Day</string>
+    <string name="holiday_il_poya">Il Full Moon Poya Day</string>
+    <string name="holiday_unduvap_poya">Unduvap Full Moon Poya Day</string>
+    <string name="holiday_christmas">Christmas Day</string>
+    <string name="holiday_new_year_day">New Year\'s Day</string>
+
+    <!-- Added: reminders, themes, permissions -->
+    <string name="reminder_note_hint">Note (optional)</string>
+    <string name="reminder_repeat">Repeat</string>
+    <string name="reminder_due">Your reminder is due</string>
+    <string name="reminder_past_error">Please pick a future date and time.</string>
+    <string name="repeat_none">Once</string>
+    <string name="repeat_daily">Every day</string>
+    <string name="repeat_birthday">Birthday (every year)</string>
+    <string name="repeat_anniversary">Anniversary (every year)</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_ok">OK</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="mode_system">System</string>
+    <string name="mode_dark">Dark</string>
+    <string name="mode_light">Light</string>
+    <string name="settings_theme_gallery">Theme Gallery</string>
+    <string name="settings_vibration">Vibration</string>
+    <string name="settings_animations">Animations</string>
+    <string name="settings_exact_alarm">Allow exact alarms</string>
+    <string name="settings_exact_alarm_desc">Android needs this permission so alarms and reminders ring on the exact minute.</string>
+    <string name="settings_exact_alarm_button">Open settings</string>
+
+    <string name="holiday_id_ul_fitr">Id-ul-Fitr (Ramazan Festival Day)</string>
+    <string name="holiday_bak_poya">Bak Full Moon Poya Day</string>
+    <string name="holiday_good_friday">Good Friday</string>
+    <string name="holiday_day_before_new_year">Day Prior to Sinhala &amp; Tamil New Year Day</string>
+
+    <string name="holidays_title">Sri Lanka %1$d — Holidays &amp; Poya Days</string>
+    <string name="holidays_source_2026">Source: Government of Sri Lanka Gazette No. 2438/22</string>
+    <string name="holidays_not_gazetted_title">Holidays not gazetted yet</string>
+    <string name="holidays_not_gazetted_body">The government publishes each year\'s public and bank holiday gazette late in the previous year. Until %1$d is gazetted, no dates are shown here rather than guessing (Poya days and Muslim/Hindu festivals depend on the lunar calendar). They will be added in an app update once the gazette is out.</string>
+    <string name="holidays_source_2027">Source: Government of Sri Lanka Gazette No. 2493/05</string>
+    <string name="days_today">Today!</string>
+    <string name="days_in">In %1$d days</string>
+    <string name="days_ago">%1$d days ago</string>
+</resources>
